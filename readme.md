@@ -1,6 +1,6 @@
 # CSS Art Brackets Logo
 
--   Css Art Brackets Logo + Beautiful Text Shadow Effect .
+-   Css Art Brackets Logo + Beautiful Text Shadow Effect + Animations.
 
 # Screenshot
 
